@@ -9,5 +9,5 @@ printf("b is the greater");}
 if (c>a && c>b){
 printf("c is the greater");}
 getch();
-return 0;
+
 }
